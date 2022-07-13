@@ -10,6 +10,8 @@ Everything can be installed quickly with easy_install or pip. E.g.:
 
 generate_library --input=bm.json --language=php --output_dir=c:/tmp/generated
 
+https://businessmessages.googleapis.com/$discovery/rest?version=v1
+
 Requirements:
 
 Google API PHP Client, version 1.1.1
